@@ -1,0 +1,63 @@
+/* DO NOT EDIT */
+html, body {
+    font-family: sans-serif;
+}
+
+/* Phase 1 */
+
+#logo {
+    /* DO NOT EDIT */
+    vertical-align: bottom;
+    margin-bottom:4px;
+    width:30px;
+    height:30px;
+}
+h1 {
+    display:inline;
+}
+
+/* Phase 2 */
+
+.box {
+    /* DO NOT EDIT */
+    vertical-align: top;
+    border:4px dotted black;
+    background-color:yellow;
+    width:120px;
+    height:120px;
+    margin:10px;
+    padding:20px;
+}
+
+.alternate {
+    box-sizing:border-box;
+}
+
+.outer{
+    display:flex;
+}
+
+/* Phase 3 */
+
+.footer {
+    /* DO NOT EDIT */
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+.quote {
+    /* DO NOT EDIT */
+    background-color: lightgray;
+    font-size: larger;
+    width:440px;
+    margin: auto auto 10px auto;
+    /* // Your code here */
+}
+
+.attribution {
+    /* DO NOT EDIT */
+    font-style: italic;
+    display:block;
+    /* // Your code here */
+}

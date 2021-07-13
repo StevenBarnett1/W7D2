@@ -1,12 +1,12 @@
 h1 {
-    font-size: 50;
-    font-family: sans-serif;
-    padding: 3px;
-    margin: 3px;
-    font-weight: 3;
-    text-decoration: underline;
-    color: red;
-    background-color: blue;
+    font-size: ;
+    font-family: ;
+    padding: ;
+    margin: ;
+    font-weight: ;
+    text-decoration: ;
+    color: ;
+    background-color: ;
 }
 
 h2 {
@@ -26,6 +26,7 @@ p {
     margin: ;
     color: ;
     background-color: ;
+    text-align: justify;
 }
 
 .logo {
@@ -34,4 +35,13 @@ p {
     background-image: url();
     height: ;
     width: ;
+}
+
+.story-box{
+    margin:auto;
+    width:500px;
+}
+
+.story-box h2 {
+    text-align:center;
 }
